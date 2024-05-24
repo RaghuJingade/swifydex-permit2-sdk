@@ -1,6 +1,17 @@
-# @uniswap/permit2-sdk - Now at `Uniswap/sdks`
+# SwifyDex Permit2 SDK`
 
-All versions after 1.2.0 of this SDK can be found in the [SDK monorepo](https://github.com/Uniswap/sdks/tree/main/sdks/permit2-sdk)! Please file all future issues, PR’s, and discussions there.
+# Installing commands 
+
+
+1> install
+   npm i 
+
+2> build
+   npm run build
+
+3> test
+   npm run test
+
 
 ### Old Issues and PR’s
 
